@@ -1,0 +1,215 @@
+/* Project Style Sheet */
+
+body
+{
+  background-color:#003366;
+  padding:2% 3%;
+}
+.container
+{
+  border:1px solid #ccc;
+  background-color:#ffffff;
+  width:90%;
+  margin-left:auto;
+  margin-right:auto;
+  padding:2% 3%;
+}
+h1
+{
+  color:#000066;
+  font-family:georgia, "Times New Roman", times, serif;
+  font-style:italic;
+}
+h4
+{
+  color:#333333;
+  font-family:georgia, "Time New Roman", times, serif;
+  font-style:italic;
+  margin-bottom:-10px;
+  margin-top:5%;
+}
+.top
+{
+  border-bottom:1px solid #ccc;
+  text-align:center;
+}
+nav
+{
+  display:block;
+  width:99%;
+  background-color:#c6c6c6;
+  text-align:center;
+  margin:10px auto;
+  padding:1px;
+  color:#000000;
+}
+.list
+{
+  display:inline;
+  list-style-type:none;
+  padding:10px;
+  font-size:17px;
+  font-family:"Times New Roman", times, serif;
+}
+a:link {color:#000099;}
+a:hover {text-decoration:none}
+a:visited {color:#000066; text-decoration:none;}
+.picture
+{
+  width:90%;
+  margin:5% auto;
+  text-align:center;
+}
+.maintext
+{
+  font-family:verdana, arial, helvetica, san-serif;
+  font-size:13px;
+  line-height:30px;
+  text-align:left;
+  color:#000000;
+  margin-top:2%;
+}
+figcaption
+{
+  font-style:italic;
+  font-family:georgia, "Times New Roman", times, serif;
+  font-size:12px;
+  padding:10px;
+  color:#800000;
+  text-align:center;
+}
+.callout
+{
+  font-weight:bold;
+  color:#2e2e2e;
+}
+li
+{
+  font-family:verdana, arial, helvetica, sans-serif;
+  font-size:13px;
+  text-align:left;
+  color:#000000;
+  line-height:20px;
+}
+.below
+{
+  border-top:1px solid #ccc;  
+}
+.footer
+{
+  text-align:center;
+  font-size:10px;
+  font-family:verdana, arial, helvetica, san-serif;
+  color:#4f4f4f;
+}
+.backtotop
+{
+  font-family:verdana, arial, helvetica, san-serif;
+  font-size:10px;
+}
+#box
+{
+  margin-top:5%;
+  margin-bottom:2%;
+}
+#popout
+{
+  color:#2e2e2e;
+  font-style:italic;
+}
+table
+{
+  width:90%;
+  margin:5% auto;
+  border-collapse:collapse;
+}
+td
+{
+  border:1px solid #ccc;
+  padding:10px;
+  padding-left:10px;
+  text-align:left;
+  font-family:verdana, arial, helvetica, san-serif;
+  font-size:13px;
+}
+th
+{
+  font-family:georgia, "Times New Roman", times, serif;
+  background-color:#ebebeb;
+  padding:5px;
+  border:1px solid #ccc; 
+  color:#0099ff;
+  font-size:15px; 
+}
+.races 
+{
+  text-align:center;
+}
+#vary 
+{
+  text-align:center;
+  font-size:12px;
+  font-style:italic;
+}
+caption 
+{
+  caption-side:bottom;
+  font-style:italic;
+  font-family:georgia, "Times New Roman", times, serif;
+  font-size:12px;
+  padding:10px;
+  color:#800000  
+}
+.examples
+{
+  font-weight:bold;
+  font-size:12px;
+  color:#3d3d3d;
+}
+figure
+{
+  display:inline;
+  text-align:center;
+}
+h3
+{
+  color:#2e2e2e;
+  background-color:#bdbdbd;
+  font-family:"Times New Roman", times, georgia, serif;
+  padding:5px;
+  margin-top:-2px;
+}
+fieldset 
+{
+  margin-bottom:10px;
+  border-radius:5px;
+  padding:1%;
+  background:#ffffff;
+  width:50%;
+  margin:0 auto 10px 0;
+  border:1px solid #ccc;
+  font-family:verdana, arial, helvetica, san-serif;
+}
+input, textarea
+{
+  border-radius:3px;
+  font-family:verdana, arial, helvetica, san-serif;
+  margin-bottom:10px;
+  margin-top:5px;
+}
+label
+{
+  font-family:verdana, arial, helvetica, san-serif;
+  font-size:13px;
+  padding-right:5px;
+}
+option {border-radius:3px; font-family:verdana, arial, helvetica, san-serif;}
+.button 
+{
+  background-color:#efefef;
+  font-family:verdana, arial, helvetica, san-serif;
+  border-radius:4px;
+}
+
+
+
